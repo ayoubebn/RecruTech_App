@@ -37,6 +37,7 @@ RecruTech/
 3- pip install pandas numpy spacy h5py
 4- pip install python-dotenv                                
 5- pip install -r requirements.txt  
-6- python -m spacy download fr_core_news_sm 
-7- streamlit run run.py 
+6- python -m spacy download fr_core_news_sm
+7- python db_setup.py
+8- streamlit run run.py 
 
